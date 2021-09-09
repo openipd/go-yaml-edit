@@ -1,4 +1,4 @@
-module github.com/vmware-labs/go-yaml-edit
+module github.com/openipd/go-yaml-edit
 
 go 1.14
 
